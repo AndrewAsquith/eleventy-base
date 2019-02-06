@@ -1,0 +1,9 @@
+{
+    "paths" : {
+        "sass": "src/sass",
+        "scripts": "src/js",
+        "build": "build",
+        "dist": "dist"
+    }
+
+}
