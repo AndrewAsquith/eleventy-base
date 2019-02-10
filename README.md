@@ -6,8 +6,8 @@ To be successful, the following is required:
 1. A .env file with ELEVENTY_ENV defined (or defined from the shell)
  * "production" indicates the production environment 
  * any other value is treated as a development environment
-2. img folder in src or redefine the path in [_gulp/config.js](_gulp/_config.js)
-3. js folder in src or redefine the path in [_gulp/config.js](_gulp/_config.js)
+2. img folder in src or redefine the path in [_gulp/config.json](_gulp/_config.json)
+3. js folder in src or redefine the path in [_gulp/config.json](_gulp/_config.json)
 
 The gulp script will:
 1. Use Eleventy to build the site in site/ [_gulp/generate.js](_gulp/generate.js)
