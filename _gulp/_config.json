@@ -2,6 +2,7 @@
     "paths" : {
         "sass": "src/sass",
         "scripts": "src/js",
+        "images": "src/img",
         "build": "build",
         "dist": "dist"
     }
